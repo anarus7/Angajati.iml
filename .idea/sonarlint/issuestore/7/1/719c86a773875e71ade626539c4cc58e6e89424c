@@ -1,0 +1,8 @@
+
+m	java:S117/"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç€´8¬“Öæ²1
+o	java:S116"SRename this field "id_index" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ì‡»8Ø“Öæ²1
+o	java:S100+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûó úÿÿÿÿ8ß“Öæ²1
+j	java:S100/"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç€´8à“Öæ²1
+n
+java:S1659q"LDeclare "hasSameLastName" and all following declarations on a separate line.(©ßŒÔüÿÿÿÿ8ç“Öæ²1
+Y	java:S125"<This block of commented-out lines of code should be removed.(Ÿœºß8ğ“Öæ²1

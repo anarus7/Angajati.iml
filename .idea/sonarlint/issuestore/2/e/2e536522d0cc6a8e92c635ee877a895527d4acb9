@@ -1,0 +1,13 @@
+
+{
+java:S22933"YReplace the type specification in this constructor call with the diamond operator ("<>").(ûÄñ§úÿÿÿÿ8ğã§Ô²1
+{
+java:S2293M"YReplace the type specification in this constructor call with the diamond operator ("<>").(µ»Ü‹úÿÿÿÿ8ğã§Ô²1
+W
+java:S11418"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ñã§Ô²1
+i
+java:S2095 "LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(ù»²8²Ê‰·1
+C
+java:S1170"!Make this final field static too.(Éı®Çùÿÿÿÿ8ˆä§Ô²1
+L	java:S106="+Replace this use of System.err by a logger.(ÕÄš€ûÿÿÿÿ8•ä§Ô²1
+G	java:S106A"+Replace this use of System.err by a logger.(ÿÉ›º8–ä§Ô²1

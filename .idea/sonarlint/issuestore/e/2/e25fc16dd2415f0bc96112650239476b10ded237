@@ -1,0 +1,21 @@
+
+V	java:S125"<This block of commented-out lines of code should be removed.(ù–íüÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(”²Ğ„ÿÿÿÿÿ
+@	java:S106#"+Replace this use of System.out by a logger.(«ÇÔ˜
+E	java:S106&"+Replace this use of System.out by a logger.(ï§²àûÿÿÿÿ
+@	java:S106)"+Replace this use of System.out by a logger.(‘›´š
+@	java:S1060"+Replace this use of System.out by a logger.(¼’„¿
+E	java:S1064"+Replace this use of System.out by a logger.(”²Ğ„ÿÿÿÿÿ
+@	java:S106;"+Replace this use of System.out by a logger.(Ù¨¢”
+@	java:S106="+Replace this use of System.out by a logger.(°ù­“
+@	java:S106?"+Replace this use of System.out by a logger.(¦ØÿÕ
+E	java:S106A"+Replace this use of System.out by a logger.(ÿÉË‘ûÿÿÿÿ
+E	java:S106C"+Replace this use of System.out by a logger.(Ëù·Üıÿÿÿÿ
+~
+java:S1157I"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(˜¸™çùÿÿÿÿ
+y
+java:S1157N"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(Ëá¿õ
+~
+java:S1157R"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(´Ö„¦şÿÿÿÿ
+y
+java:S1157V"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(øğ®ğ
